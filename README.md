@@ -1,6 +1,6 @@
 # Hermetik Dashboard
 
-This repository contains Node.js services used for tracking cryptocurrency wallet data.
+This repository contains Node.js services used for tracking cryptocurrency .
 
 There are two Express based backends under `backend/` and `hermetik-backend/`. Each
 service connects to MongoDB and exposes REST API endpoints.
@@ -45,9 +45,4 @@ service connects to MongoDB and exposes REST API endpoints.
 
 Each route returns JSON and most interactions require a valid MongoDB setup.
 
-## Development
-
-Use `nodemon` (`npm run dev`) for automatic restarts during development.
-
-Feel free to open issues or pull requests if you encounter problems.
 
